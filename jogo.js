@@ -16,7 +16,7 @@ if(nivel === 'normal'){
 } else if(nivel === 'dificil'){
     //1000
     criaMosquito = 1000
-}else if(nivel === 'hard'){
+}else if(nivel === 'muito_dificil'){
     //750
     criaMosquito = 750
 }
