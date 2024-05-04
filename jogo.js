@@ -18,7 +18,7 @@ if(nivel === 'normal'){
     criaMosquito = 1000
 }else if(nivel === 'muito_dificil'){
     //750
-    criaMosquito = 750
+    criaMosquito = 850
 }
 
 function ajustaTamanhoPalcoJogo() {
